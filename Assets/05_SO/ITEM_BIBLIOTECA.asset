@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb1d4bffa52f884fa6826145f91659c, type: 3}
+  m_Name: ITEM_BIBLIOTECA
+  m_EditorClassIdentifier: 
+  title: BIBLIOTECA
+  description: "La Biblioteca UNIVALLE Tiquipaya es un espacio moderno y acogedor
+    dedicado al aprendizaje, la investigaci\xF3n y el desarrollo acad\xE9mico de
+    nuestra comunidad universitaria. Situada en el campus de la Universidad del Valle
+    en Tiquipaya, Cochabamba, nuestra biblioteca ofrece un entorno estimulante y
+    equipado con una amplia gama de recursos para apoyar a estudiantes, docentes
+    e investigadores en sus actividades acad\xE9micas.\n- Acceso Digital: Ofrecemos
+    acceso a bases de datos acad\xE9micas, e-books y revistas electr\xF3nicas a trav\xE9s
+    de plataformas digitales, facilitando la investigaci\xF3n y el aprendizaje remoto.\n\n
+    - Espacios de Estudio: La biblioteca cuenta con \xE1reas de estudio individual
+    y en grupo, salas de lectura y cub\xEDculos privados para trabajos de investigaci\xF3n.
+    Tambi\xE9n disponemos de c\xF3modas \xE1reas de descanso para una experiencia
+    de estudio eficiente y agradable.\n\n - Tecnolog\xEDa de Punta: Equipamos a nuestros
+    usuarios con computadoras de \xFAltima generaci\xF3n, acceso a internet de alta
+    velocidad y herramientas tecnol\xF3gicas para facilitar la b\xFAsqueda y el an\xE1lisis
+    de informaci\xF3n.\n"
+  vcClips:
+  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
+  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
+  gmCharacter: {fileID: 3192114720229267718, guid: dca49f246fe5e524499d786535110780, type: 3}

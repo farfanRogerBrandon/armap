@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb1d4bffa52f884fa6826145f91659c, type: 3}
+  m_Name: ITEM_COMEDOR
+  m_EditorClassIdentifier: 
+  title: COMEDOR
+  description: "El Comedor UNIVALLE Tiquipaya es el lugar ideal para disfrutar de
+    una variedad de comidas saludables y nutritivas en el campus de la Universidad
+    del Valle. Dise\xF1ado para ofrecer un ambiente c\xF3modo y agradable, nuestro
+    comedor es un punto de encuentro vibrante donde estudiantes, docentes y personal
+    administrativo pueden relajarse y compartir una comida equilibrada durante su
+    jornada acad\xE9mica. Ofrecemos un almuerzo completo a un precio accesible de
+    15 BS., adem\xE1s de opciones adicionales a 15 y 18 BS. Para quienes prefieren
+    mayor flexibilidad, contamos con un buffet cuya tarifa se calcula seg\xFAn el
+    peso de la comida."
+  vcClips:
+  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
+  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
+  gmCharacter: {fileID: 4611283040028598962, guid: 01c6f4a520bb86b4b9f6d4e32d930168, type: 3}
