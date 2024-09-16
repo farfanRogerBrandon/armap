@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb1d4bffa52f884fa6826145f91659c, type: 3}
+  m_Name: ITEM_LABPROC
+  m_EditorClassIdentifier: 
+  title: LAB. PROCESOS
+  description: "La Universidad Privada del Valle (Univalle) en Tiquipaya cuenta con
+    un laboratorio de procesos altamente especializado que integra disciplinas clave
+    como electrotecnia y f\xEDsica aplicada a la ingenier\xEDa civil. Este laboratorio
+    es un centro vital para la formaci\xF3n pr\xE1ctica de los estudiantes, ofreciendo
+    una experiencia educativa completa en el an\xE1lisis y la aplicaci\xF3n de principios
+    cient\xEDficos y tecnol\xF3gicos."
+  vcClips:
+  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
+  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
+  gmCharacter: {fileID: 6482305628027991195, guid: 2c6f1805026919b488f7042440b85d87, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb1d4bffa52f884fa6826145f91659c, type: 3}
+  m_Name: ITEM_ALIMENTOS
+  m_EditorClassIdentifier: 
+  title: P. ALIMENTOS
+  description: "La planta de alimentos se destaca por su dise\xF1o contempor\xE1neo
+    y funcional, con espacios amplios y bien iluminados que facilitan tanto la producci\xF3n
+    como la investigaci\xF3n. Su arquitectura incorpora materiales de alta calidad
+    y tecnolog\xEDas avanzadas, creando un entorno eficiente y seguro para todas
+    las actividades relacionadas con la alimentaci\xF3n.\n\nEquipada con maquinaria
+    de \xFAltima generaci\xF3n y zonas de procesamiento especializadas, la planta
+    ofrece a los estudiantes y profesionales un entorno ideal para aprender y experimentar
+    en el campo de la tecnolog\xEDa alimentaria. La instalaci\xF3n incluye \xE1reas
+    dedicadas a la preparaci\xF3n, an\xE1lisis y envasado de alimentos, permitiendo
+    una visi\xF3n integral del proceso productivo."
+  vcClips:
+  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
+  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
+  gmCharacter: {fileID: 3811151828407420839, guid: c77cc60513b6a9344b5913b5aff28c20, type: 3}
