@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdb1d4bffa52f884fa6826145f91659c, type: 3}
+  m_Name: ITEM_GASTRO
+  m_EditorClassIdentifier: 
+  title: "GASTRONOM\xCDA"
+  description: "El edificio actualizado de Gastronom\xEDa de la Universidad Privada
+    de Cochabamba (Univalle) en Tiquipaya es una magn\xEDfica instalaci\xF3n que
+    alberga tanto la Facultad de Gastronom\xEDa como la de Turismo y Hoteler\xEDa.
+    Su dise\xF1o moderno y elegante refleja el compromiso de la universidad con la
+    excelencia en la formaci\xF3n acad\xE9mica y profesional en estos campos.\n\nCon
+    una fachada contempor\xE1nea y amplios ventanales que inundan el interior de
+    luz natural, el edificio ofrece un entorno inspirador y funcional. Sus instalaciones
+    incluyen cocinas de \xFAltima generaci\xF3n y laboratorios de alta tecnolog\xEDa,
+    ideales para el desarrollo de habilidades culinarias. Adem\xE1s, cuenta con aulas
+    vers\xE1tiles, \xE1reas de simulaci\xF3n de gesti\xF3n hotelera, y espacios para
+    eventos y degustaciones.\n\nEl dise\xF1o del edificio no solo facilita el aprendizaje
+    te\xF3rico y pr\xE1ctico, sino que tambi\xE9n fomenta la colaboraci\xF3n entre
+    estudiantes de gastronom\xEDa y turismo, creando un ambiente din\xE1mico y enriquecedor.
+    La estructura est\xE1 pensada para integrar estos dos campos complementarios,
+    proporcionando una experiencia educativa integral y de alta calidad."
+  vcClips:
+  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
+  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
+  gmCharacter: {fileID: 562162275099233312, guid: 39057647f94c2134593ad575bcdd0e99, type: 3}
