@@ -13,8 +13,14 @@ MonoBehaviour:
   m_Name: ITEM_T
   m_EditorClassIdentifier: 
   title: BLOQUE T
-  description: 
+  description: "El Bloque T de Univalle en Tiquipaya alberga la Facultad de Inform\xE1tica
+    y Electr\xF3nica, y se distingue por sus modernos centros de c\xF3mputo especializados.
+    Estos centros est\xE1n equipados con tecnolog\xEDa avanzada para apoyar las carreras
+    de Ingenier\xEDa de Sistemas Inform\xE1ticos, Electr\xF3nica y Biom\xE9dica.
+    El edificio ofrece tambi\xE9n aulas bien dise\xF1adas, laboratorios especializados
+    y espacios colaborativos, creando un ambiente \xF3ptimo para el aprendizaje y
+    la investigaci\xF3n en tecnolog\xEDa."
   vcClips:
   - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
   - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
-  gmCharacter: {fileID: 8180368312927934618, guid: 5abe91a74179bf841b2077092aa10cb0, type: 3}
+  gmCharacter: {fileID: 7144668160162222088, guid: 73d5b040418b032468e65529ae29c98b, type: 3}
