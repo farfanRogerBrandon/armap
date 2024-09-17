@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: "LAB. PETR\xD3LEO"
   description: 
-  vcClips: []
+  vcClips:
+  - {fileID: 32900000, guid: d929356493f9ceb4895b7a9153ce5423, type: 3}
   gmCharacter: {fileID: 0}

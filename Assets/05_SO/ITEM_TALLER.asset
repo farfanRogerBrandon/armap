@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: "T. METALMEC\xC1NICA"
   description: 
-  vcClips: []
+  vcClips:
+  - {fileID: 32900000, guid: e9a2653ae029b5d45b12434668e97abe, type: 3}
   gmCharacter: {fileID: 0}

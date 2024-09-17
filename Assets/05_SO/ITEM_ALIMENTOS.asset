@@ -24,6 +24,6 @@ MonoBehaviour:
     dedicadas a la preparaci\xF3n, an\xE1lisis y envasado de alimentos, permitiendo
     una visi\xF3n integral del proceso productivo."
   vcClips:
-  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
-  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
+  - {fileID: 32900000, guid: c140c38ec89202b4c9a1ef2c3867d033, type: 3}
+  - {fileID: 32900000, guid: 7ccf331d95726aa45b21d158a30ea29e, type: 3}
   gmCharacter: {fileID: 3811151828407420839, guid: c77cc60513b6a9344b5913b5aff28c20, type: 3}

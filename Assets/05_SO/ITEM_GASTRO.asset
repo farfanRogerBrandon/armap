@@ -29,6 +29,6 @@ MonoBehaviour:
     La estructura est\xE1 pensada para integrar estos dos campos complementarios,
     proporcionando una experiencia educativa integral y de alta calidad."
   vcClips:
-  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
-  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
+  - {fileID: 32900000, guid: 7ccf331d95726aa45b21d158a30ea29e, type: 3}
+  - {fileID: 32900000, guid: 7ab36f0793ed88741aba7b57b9df23d4, type: 3}
   gmCharacter: {fileID: 562162275099233312, guid: 39057647f94c2134593ad575bcdd0e99, type: 3}

@@ -29,6 +29,5 @@ MonoBehaviour:
     velocidad y herramientas tecnol\xF3gicas para facilitar la b\xFAsqueda y el an\xE1lisis
     de informaci\xF3n.\n"
   vcClips:
-  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
-  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
+  - {fileID: 32900000, guid: 9cd3681e6c4853746b06c2af6d2aee81, type: 3}
   gmCharacter: {fileID: 3192114720229267718, guid: dca49f246fe5e524499d786535110780, type: 3}

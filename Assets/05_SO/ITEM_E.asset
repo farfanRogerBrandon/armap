@@ -14,5 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: BLOQUE E
   description: 
-  vcClips: []
+  vcClips:
+  - {fileID: 32900000, guid: 8a2ec8d65d83c2d44aee530b92cce2b1, type: 3}
+  - {fileID: 32900000, guid: 284e046600a2f514785b03166a5b2070, type: 3}
+  - {fileID: 32900000, guid: cd815add804326f4493bde1c33c6b09e, type: 3}
+  - {fileID: 32900000, guid: 89091e6552ebf104da23c126c18bc7dd, type: 3}
   gmCharacter: {fileID: 0}

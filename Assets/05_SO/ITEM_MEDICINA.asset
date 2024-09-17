@@ -22,6 +22,6 @@ MonoBehaviour:
     y \xE1reas de estudio bien equipadas, que facilitan una integraci\xF3n efectiva
     entre la teor\xEDa y la pr\xE1ctica en el campo de la morfolog\xEDa humana."
   vcClips:
-  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
-  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
+  - {fileID: 32900000, guid: 89091e6552ebf104da23c126c18bc7dd, type: 3}
+  - {fileID: 32900000, guid: cd815add804326f4493bde1c33c6b09e, type: 3}
   gmCharacter: {fileID: 8180368312927934618, guid: 5abe91a74179bf841b2077092aa10cb0, type: 3}

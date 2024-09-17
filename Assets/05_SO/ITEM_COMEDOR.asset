@@ -23,6 +23,5 @@ MonoBehaviour:
     mayor flexibilidad, contamos con un buffet cuya tarifa se calcula seg\xFAn el
     peso de la comida."
   vcClips:
-  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
-  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
+  - {fileID: 32900000, guid: 0c348d4122618954480935274f59a552, type: 3}
   gmCharacter: {fileID: 4611283040028598962, guid: 01c6f4a520bb86b4b9f6d4e32d930168, type: 3}

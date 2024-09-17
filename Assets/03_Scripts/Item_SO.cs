@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.Video;
 
 [CreateAssetMenu(fileName ="ITEM_SO", menuName ="ScriptableObject/Item")]
+
 public class Item_SO : ScriptableObject
 {
     public string title;

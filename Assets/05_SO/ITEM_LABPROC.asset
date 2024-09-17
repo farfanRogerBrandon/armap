@@ -20,6 +20,5 @@ MonoBehaviour:
     una experiencia educativa completa en el an\xE1lisis y la aplicaci\xF3n de principios
     cient\xEDficos y tecnol\xF3gicos."
   vcClips:
-  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
-  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
+  - {fileID: 32900000, guid: e5ba9fcdc23a8854a8a000cd0d1334c1, type: 3}
   gmCharacter: {fileID: 6482305628027991195, guid: 2c6f1805026919b488f7042440b85d87, type: 3}

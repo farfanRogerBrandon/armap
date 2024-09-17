@@ -15,6 +15,6 @@ MonoBehaviour:
   title: BLOQUE S
   description: 
   vcClips:
-  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
-  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
+  - {fileID: 32900000, guid: 362588cdb489f6a4a95f907f33c7b56e, type: 3}
+  - {fileID: 32900000, guid: 411f682d692647c42b905cfeb22a8c3e, type: 3}
   gmCharacter: {fileID: 8180368312927934618, guid: 5abe91a74179bf841b2077092aa10cb0, type: 3}

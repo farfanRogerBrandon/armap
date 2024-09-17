@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: EDFICIO F
   description: 
-  vcClips: []
+  vcClips:
+  - {fileID: 32900000, guid: a7ff71f7717c9e94fbb9a6f94d5a4fb5, type: 3}
   gmCharacter: {fileID: 0}

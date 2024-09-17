@@ -13,8 +13,12 @@ MonoBehaviour:
   m_Name: ITEM_COLISEO
   m_EditorClassIdentifier: 
   title: COLISEO
-  description: 
+  description: "El Coliseo de Univalle en Tiquipaya es un moderno centro deportivo
+    que ofrece instalaciones para futsal, baloncesto y voleibol. Adem\xE1s, cuenta
+    con canchas de squash y raquetbol, as\xED como mesas de ping-pong, proporcionando
+    amplias opciones para actividades deportivas y recreativas. Ideal para estudiantes
+    y eventos deportivos, el Coliseo combina funcionalidad y versatilidad en un solo
+    espacio."
   vcClips:
-  - {fileID: 32900000, guid: 3b14bad981a08044bb8faf0ba763fa07, type: 3}
-  - {fileID: 32900000, guid: 7786dc8239b023047abbec4d14fa3b20, type: 3}
-  gmCharacter: {fileID: 8180368312927934618, guid: 5abe91a74179bf841b2077092aa10cb0, type: 3}
+  - {fileID: 32900000, guid: 5da63e2484bd15d42a64e8c342e92f59, type: 3}
+  gmCharacter: {fileID: 4053936679955710927, guid: d9f652c862e09b242a2b6387d85b23d1, type: 3}
