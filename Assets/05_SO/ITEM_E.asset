@@ -13,10 +13,14 @@ MonoBehaviour:
   m_Name: ITEM_E
   m_EditorClassIdentifier: 
   title: BLOQUE E
-  description: 
+  description: "\nEl Bloque E de la Universidad del Valle en Tiquipaya es un espacio
+    multifuncional dise\xF1ado para apoyar la formaci\xF3n en medicina y arquitectura.
+    Equipado con modernas aulas te\xF3ricas para medicina y espacios pr\xE1cticos
+    para arquitectura, es un centro clave para el aprendizaje integral y la pr\xE1ctica
+    profesional de los estudiantes."
   vcClips:
   - {fileID: 32900000, guid: 8a2ec8d65d83c2d44aee530b92cce2b1, type: 3}
   - {fileID: 32900000, guid: 284e046600a2f514785b03166a5b2070, type: 3}
   - {fileID: 32900000, guid: cd815add804326f4493bde1c33c6b09e, type: 3}
   - {fileID: 32900000, guid: 89091e6552ebf104da23c126c18bc7dd, type: 3}
-  gmCharacter: {fileID: 0}
+  gmCharacter: {fileID: 6620647159486302506, guid: 0010f2a6e2835ae459646c60b3687bf1, type: 3}

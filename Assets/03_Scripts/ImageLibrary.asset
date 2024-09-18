@@ -21,9 +21,9 @@ MonoBehaviour:
       m_GuidLow: 4928780476009853699
       m_GuidHigh: 1660145512201892537
     m_SerializedTextureGuid:
-      m_GuidLow: 8621073353769404093
-      m_GuidHigh: 17606799205185304905
-    m_Size: {x: 0.1, y: 0.1}
+      m_GuidLow: 1816312133605500082
+      m_GuidHigh: 690157263453040089
+    m_Size: {x: 0.1, y: 0.24836601}
     m_SpecifySize: 1
     m_Name: Comedor
     m_Texture: {fileID: 0}
